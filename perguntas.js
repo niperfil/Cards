@@ -1,0 +1,10 @@
+criaCartao('Tendências', 'O que está em alta em 2025?', 'Metalizados, alfaiataria e tons pastel.');
+criaCartao('Estilo', 'O que é o estilo minimalista?', 'Looks com cortes retos, cores neutras e peças básicas.');
+criaCartao('Cores', 'Qual a cor do ano 2025?', 'Coral elétrico, segundo a Pantone.');
+criaCartao('Sustentabilidade', 'O que é moda sustentável?', 'É a moda que respeita o meio ambiente e os direitos humanos.');
+criaCartao('Tecidos', 'Qual tecido é mais usado no verão?', 'Algodão, por ser leve e respirável.');
+criaCartao('Influência', 'Quem é uma influenciadora de moda famosa?', 'Camila Coelho, referência internacional.');
+criaCartao('Acessórios', 'Qual acessório voltou à moda?', 'Presilhas de cabelo estilo anos 90.');
+criaCartao('Moda Masculina', 'O que está em alta para homens?', 'Camisas estampadas e calças cargo.');
+criaCartao('Calçados', 'Qual tênis está na moda?', 'Chunky sneakers e modelos retrô.');
+criaCartao('Vintage', 'O que é moda retrô?', 'Tendências antigas que voltam à atualidade.');
